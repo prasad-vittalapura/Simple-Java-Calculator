@@ -1,0 +1,10 @@
+(base) prasad@blade:~/Desktop/prasad/Simple-Java-Calculator$ cd .git/
+(base) prasad@blade:~/Desktop/prasad/Simple-Java-Calculator/.git$ ls
+branches  description  hooks  info  objects      refs
+config    HEAD         index  logs  packed-refs
+(base) prasad@blade:~/Desktop/prasad/Simple-Java-Calculator/.git$ cd ..
+(base) prasad@blade:~/Desktop/prasad/Simple-Java-Calculator$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
